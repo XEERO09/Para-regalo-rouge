@@ -1,0 +1,10 @@
+PORTAFOLIO PARA REGALO — ROUGE BRUT
+
+1. Descomprimí este ZIP.
+2. Abrí index.html con Chrome o Edge.
+3. Para modificar textos, editá index.html en Google Colab o un editor de texto.
+4. Para cambiar el diseño, editá styles.css.
+5. Las fotos están en images/ y el listado en script.js.
+6. Para publicar, subí index.html, styles.css, script.js y la carpeta images/ a un repositorio público de GitHub y activá Settings > Pages > Deploy from a branch > main > /(root).
+
+Nota: la fuente de Google Fonts requiere conexión; hay tipografías alternativas locales.
